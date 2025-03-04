@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.492.1-1-jdk11
+FROM jenkins/jenkins:2.440.1-jdk11
 
 # Switch to root user
 USER root
